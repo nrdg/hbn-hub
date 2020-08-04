@@ -1,3 +1,5 @@
 notebooks/data
 **.ipynb_checkpoints
 **__pycache__
+**.sw?
+notebooks/cloudknot_docker_preprocess*
