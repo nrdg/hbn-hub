@@ -1,0 +1,6 @@
+name: viz-qsiprep-qc
+channels:
+  - conda-forge
+dependencies:
+  - altair==4.1.0
+  - dask==2.6.0
