@@ -49,7 +49,6 @@ def visualize_odfs_from_files(
     window.show(ren)
 
 
-# TODO: Remember the sh_coeff file looks like './csd_sh_coeff.nii.gz'
 def visualize_odfs(
     bval_file, bvec_file, dwi_file, sh_coeff_file, sh_order=None, clobber_dir=False
 ):
